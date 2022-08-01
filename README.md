@@ -42,7 +42,7 @@
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> 
 <img align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> 
 <br>
-<h3 align="left">☁️ Hosting/:</h3>
+<h3 align="left">☁️ Hosting:</h3>
 <img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
 <br>
 <h3 align="left">💻 IDEs/Editors Name:</h3>
@@ -77,6 +77,7 @@
 
 <br>
 <br>
+
 <h3 align="left">📋 Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavneet345&show_icons=true&locale=en&layout=compact" alt="bhavneet345" /></p>
 
