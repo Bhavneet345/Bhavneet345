@@ -18,7 +18,11 @@
 - 📫 How to reach me **singhbhavneet171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p>
 <a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavneet-singh-444940205" height="30" width="40" /></a>
+&nbsp;
+<a href="https://instagram.com/ssinghh_bbhavneett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssinghh_bbhavneett" height="30" width="40" /></a>
+</p>
 
 <p>
 <h3 align="left">🌐 Browsers:</h3>
@@ -93,7 +97,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavneet345&show_icons=true&locale=en&layout=compact" alt="bhavneet345" />
  </p>
  
- <p>
+ <p style="text-align:center">
 <img src="https://github-readme-stats.vercel.app/api?username=bhavneet345&show_icons=true&locale=en" alt="bhavneet345"/>
  </p>
 
