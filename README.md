@@ -1,4 +1,4 @@
-- <h3>👋 Hi, I’m @Bhavneet345</h3>
+- 👋 Hi, I’m @Bhavneet345
 - 👀 I’m interested in coding and passionate about coding and other technologies
 - 🌱 I learnt pandas,numpy,scikitlearn,data science and data structures and algorithms
 - 👾 Currenty I am focusing on my Web Development Skills and lerning technologies like Node.js, React, Javascript, Express.js....
