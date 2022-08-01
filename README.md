@@ -17,15 +17,12 @@
 
 - 📫 How to reach me **singhbhavneet171@gmail.com**
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ssinghh_bbhavneett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssinghh_bbhavneett" height="30" width="40" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavneet-singh-444940205" height="30" width="40" /></a>
 
-<br>
-<br>
 <p>
 <h3 align="left">🌐 Browsers:</h3>
 </p>
@@ -48,8 +45,6 @@
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> 
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <br>
 <p>
 <h3 align="left">☁️ Hosting:</h3>
@@ -95,7 +90,6 @@
 </p>
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<br>
 <br>
 <h3 align="left">📋 Stats</h3>
  <p>
