@@ -74,13 +74,16 @@
 <h3 align="left">🕓 Version Control:</h3>
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-
 <br>
-<br>
-
 <h3 align="left">📋 Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavneet345&show_icons=true&locale=en&layout=compact" alt="bhavneet345" /></p>
+ <p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavneet345&show_icons=true&locale=en&layout=compact" alt="bhavneet345" />
+ </p>
+ 
+ <p>
+<img src="https://github-readme-stats.vercel.app/api?username=bhavneet345&show_icons=true&locale=en" alt="bhavneet345"/>
+ </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavneet345&show_icons=true&locale=en" alt="bhavneet345" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavneet345&" alt="bhavneet345" /></p>
+ <p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavneet345&" alt="bhavneet345" />
+ </p>
