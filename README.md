@@ -1,7 +1,7 @@
 <img src="https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" align="center" width="100%">
 <h1 align="center">Hi 👋, I'm Bhavneet Singh(@Bhavneet345)</h1>
 <p align="center">A computer science passionate, keen to learn new programming languages and technologies, looking up for some good projects to work upon and like to move in to uncomfortable territories so that I can grow and expand myself!!</p>
-<img src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" align="right" alt="Coding" width="400">
+<img src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" align="right" alt="Coding" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavneet345&label=Profile%20views&color=0e75b6&style=flat" alt="bhavneet345" /> </p>
 
