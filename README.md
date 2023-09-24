@@ -84,7 +84,7 @@
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <br>
 <p>
-<h3 align="left">🕓 Version Control:</h3>
+<h3 align="left">🕓 Version Control:</h3> 
 </p>
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
