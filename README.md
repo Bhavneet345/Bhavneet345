@@ -3,8 +3,6 @@
 <p align="center">A computer science passionate, keen to learn new programming languages and technologies, looking up for some good projects to work upon and like to move in to uncomfortable territories so that I can grow and expand myself!!</p>
 <img src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" align="right" alt="Coding" width="350">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavneet345&label=Profile%20views&color=0e75b6&style=flat" alt="bhavneet345" /> </p>
-
 - 👀 I’m interested in coding and passionate about coding and other technologies.
  
 - 🥏 I have my grip upon pandas,numpy,scikitlearn python libraries, and Data structures and Algorithms.
@@ -19,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavneet" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavneet"/></a>
+<a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavneet"/></a>
 <p>
 <h3 align="left">🌐 Browsers:</h3>
 </p>
