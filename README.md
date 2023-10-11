@@ -18,7 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavneet"/></a>
-<a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavneet"/></a>
+<a href="https://www.instagram.com/ssinghh_bbhavneett/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bhavneet"/></a>
+<a href="https://twitter.com/Bhavneet352" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bhavneet"/></a>
 <p>
 <h3 align="left">🌐 Browsers:</h3>
 </p>
