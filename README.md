@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Express.js, Nodes.js, React, Machine and Deep Learning, NLP**.
 
-- 📫 How to reach me **singhbhavneet171@gmail.com**
+- 📫 How to reach me **bhavneetsingh2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p>
