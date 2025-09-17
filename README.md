@@ -1,93 +1,127 @@
-<img src="https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" align="center" width="100%">
-<h1 align="center">Hi 👋, I'm Bhavneet Singh(@Bhavneet345)</h1>
-<p align="center">A computer science passionate, keen to learn new programming languages and technologies, looking up for some good projects to work upon and like to move in to uncomfortable territories so that I can grow and expand myself!!</p>
-<img src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" align="right" alt="Coding" width="350">
+<img src="https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" width="100%"/>
 
-- 👀 I’m interested in coding and passionate about coding and other technologies.
- 
-- 🥏 I have my grip upon pandas,numpy,scikitlearn python libraries, and Data structures and Algorithms.
+<h1 align="center">Hi 👋, I'm Bhavneet Singh (@Bhavneet345)</h1>
 
-- 🌱 I’m currently learning **Web Development Skills and focusing on technologies like MongoDB, Express.js, React, and Node.js.**
+<p align="center">
+  🚀 Passionate Computer Science Student | 🧠 Lifelong Learner | 💻 Full Stack + AI Enthusiast <br>
+  I love diving into new technologies, building real-world projects, and expanding my comfort zone.
+</p>
 
-- 👯 I’m looking to collaborate on **different open source projects**.
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif">
 
-- 💬 Ask me about **Express.js, Nodes.js, React, Machine and Deep Learning, NLP**.
+---
 
-- 📫 How to reach me **bhavneetsingh2024@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working as an **AI Software Engineer Intern at the National Research Council Canada (NRC)**.
+- 🌱 Learning advanced **MERN Stack**, **DevOps**, and **Multimodal AI** workflows.
+- 💡 Interested in solving real-world problems through code, collaboration, and creativity.
+- 🤝 I’m open to collaborating on **open-source**, **research**, or **startup projects**.
+- 💬 Ask me about: `React`, `Node.js`, `Express`, `Machine Learning`, `Deep Learning`, `NLP`.
+- 📫 Reach me at: **bhavneetsingh2024@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
 <p>
-<a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavneet"/></a>
-<a href="https://www.instagram.com/ssinghh_bbhavneett/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bhavneet"/></a>
-<a href="https://twitter.com/Bhavneet352" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bhavneet"/></a>
-<p>
-<h3 align="left">🌐 Browsers:</h3>
+  <a href="https://linkedin.com/in/bhavneet-singh-444940205" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ssinghh_bbhavneett/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Bhavneet352" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
-<img align="left" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-<br>
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 👨‍💻 Programming Languages
 <p>
-<h3 align="left">💾 Databases:</h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Octave-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-<br>
+
+#### 💾 Databases
 <p>
-<h3 align="left">📚 Frameworks, Platforms and Libraries:</h3>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> 
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-<br>
+
+#### 📚 Frameworks / Libraries / Platforms
 <p>
-<h3 align="left">☁️ Hosting:</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
-<br>
+
+#### 🧠 ML / DL / AI
 <p>
-<h3 align="left">💻 IDEs/Editors Name:</h3>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0066CC?style=for-the-badge&logo=faiss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FFD700?style=for-the-badge"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"> 
-<br>
+
+#### ☁️ Cloud & DevOps
 <p>
-<h3 align="left">📋 Languages:</h3>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SageMaker-008675?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-233642?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img align="left" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683">
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<br>
+
+#### 🧰 Tools & IDEs
 <p>
-<h3 align="left">🖥️ ML/DL:</h3>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<br>
+
+#### 🖥️ OS & Version Control
 <p>
-<h3 align="left">🎛️ Operating System:</h3>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<br>
-<p>
-<h3 align="left">🕓 Version Control:</h3> 
-</p>
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<br>
+
+---
+
 <h3 align="left">📋 Stats</h3>
  <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavneet345&show_icons=true&locale=en&layout=compact" alt="bhavneet345" />
