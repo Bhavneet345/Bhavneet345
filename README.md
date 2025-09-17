@@ -92,7 +92,3 @@
  <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavneet345&show_icons=true&locale=en&layout=compact" alt="bhavneet345" />
  </p>
- 
- <p style="text-align:center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhavneet345&show_icons=true&locale=en" alt="bhavneet345"/>
- </p>
