@@ -13,8 +13,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as an **AI Software Engineer Intern at the National Research Council Canada (NRC)**.
-- 🌱 Learning advanced **MERN Stack**, **DevOps**, and **Multimodal AI** workflows.
+- 🔭 I’m currently working as an **AI Software Engineer at the National Research Council Canada (NRC)**.
+- 🌱 Contributing in advanced **MERN Stack**, **DevOps**, and **Multimodal AI** workflows.
 - 💡 Interested in solving real-world problems through code, collaboration, and creativity.
 - 🤝 I’m open to collaborating on **open-source**, **research**, or **startup projects**.
 - 💬 Ask me about: `React`, `Node.js`, `Express`, `Machine Learning`, `Deep Learning`, `NLP`.
