@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a ** Lead AI/ML Engineer at the National Research Council Canada (NRC)**.
+- 🔭 I’m currently working as a **Lead AI/ML Engineer at the National Research Council Canada (NRC)**.
 - 🌱 Contributing in advanced **MERN Stack**, **DevOps**, and **Multimodal AI** workflows.
 - 💡 Interested in solving real-world problems through code, collaboration, and creativity.
 - 🤝 I’m open to collaborating on **open-source**, **research**, or **startup projects**.
